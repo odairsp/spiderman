@@ -1,9 +1,9 @@
 # Ri Happy - Front-end do Zero
 
-## Desafio Yu-Gi-Oh | Jo-ken-po Edition
+## Desafio Spiderman | Multiverso
 
-Desafio criado para demonstrar os conhecimentos iniciais em javascript
-e lógica de programação aplicados a jogos
+Desafio criado para treinar os conhecimentos iniciais em HTML, CSS e javascript.
+Criando uma apresentação de diversos filmes do tema Homem Aranha.
 
 
 
